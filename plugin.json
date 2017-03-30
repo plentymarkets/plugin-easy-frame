@@ -1,0 +1,72 @@
+{
+  "version"           : "1.0.0",
+  "name"              : "EasyFrame",
+  "description"       : "Simply add configurable iFrames.",
+  "author"            : "plentymarkets GmbH",
+  "license"           : "AGPL-3.0",
+  "pluginIcon"        : "icon_plugin_xs.png",
+  "price"             : 0.00,
+  "shortDescription"  : {"de": "Easy Frame – Anzeige von iFrames in LayoutContainers.","en": "Easy Frame - Displaying iFrames in LayoutContainers."},
+  "authorIcon"        : "icon_author_xs.png",
+  "email"             : "sales@plentymarkets.com",
+  "phone"             : "+49 561 98 681 100",
+  "categories"        : ["3527"],
+  "keywords"          : ["plentymarkets", "plugins", "layout", "widget", "easy frame", "easy", "frame"],
+  "type"              : "general",
+  "require"           : [],
+  "namespace"         : "EasyFrame",
+  "serviceProvider"   : "EasyFrame\\Providers\\EasyFrameServiceProvider",
+  "javaScriptFiles"   : [],
+  "dataProviders"     : [
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerA",
+      "name":"iFrame 1",
+      "description":"Display iFrame 1"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerB",
+      "name":"iFrame 2",
+      "description":"Display iFrame 2"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerC",
+      "name":"iFrame 3",
+      "description":"Display iFrame 3"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerD",
+      "name":"iFrame 4",
+      "description":"Display iFrame 4"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerE",
+      "name":"iFrame 5",
+      "description":"Display iFrame 5"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerF",
+      "name":"iFrame 6",
+      "description":"Display iFrame 6"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerG",
+      "name":"iFrame 7",
+      "description":"Display iFrame 7"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerH",
+      "name":"iFrame 8",
+      "description":"Display iFrame 8"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerI",
+      "name":"iFrame 9",
+      "description":"Display iFrame 9"
+    },
+    {
+      "key":"EasyFrame\\Containers\\EasyFrameContainerJ",
+      "name":"iFrame 10",
+      "description":"Display iFrame 10"
+    }
+  ]
+}

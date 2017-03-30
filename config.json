@@ -1,0 +1,212 @@
+[
+  {
+    "tab"                         : "iFrame 1",
+    "key"                         : "frame.a.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 1",
+    "key"                         : "frame.a.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 1",
+    "key"                         : "frame.a.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 2",
+    "key"                         : "frame.b.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 2",
+    "key"                         : "frame.b.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 2",
+    "key"                         : "frame.b.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 3",
+    "key"                         : "frame.c.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 3",
+    "key"                         : "frame.c.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 3",
+    "key"                         : "frame.c.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 4",
+    "key"                         : "frame.d.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 4",
+    "key"                         : "frame.d.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 4",
+    "key"                         : "frame.d.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 5",
+    "key"                         : "frame.e.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 5",
+    "key"                         : "frame.e.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 5",
+    "key"                         : "frame.e.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 6",
+    "key"                         : "frame.f.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 6",
+    "key"                         : "frame.f.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 6",
+    "key"                         : "frame.f.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 7",
+    "key"                         : "frame.g.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 7",
+    "key"                         : "frame.g.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 7",
+    "key"                         : "frame.g.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 8",
+    "key"                         : "frame.h.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 8",
+    "key"                         : "frame.h.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 8",
+    "key"                         : "frame.h.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 9",
+    "key"                         : "frame.i.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 9",
+    "key"                         : "frame.i.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 9",
+    "key"                         : "frame.i.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  },
+  {
+    "tab"                         : "iFrame 10",
+    "key"                         : "frame.j.width",
+    "label"                       : "Width",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 10",
+    "key"                         : "frame.j.height",
+    "label"                       : "Height",
+    "type"                        : "text",
+    "default"                     : "100px"
+  },
+  {
+    "tab"                         : "iFrame 10",
+    "key"                         : "frame.j.url",
+    "label"                       : "URL",
+    "type"                        : "text",
+    "default"                     : "iFrame URL"
+  }
+]
