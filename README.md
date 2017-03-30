@@ -2,4 +2,4 @@
 
 # Easy Frame
 
-This plugin simply add configurable iFrames in LayoutContainer to show custom content. 
+This plugin simply adds configurable iFrames and links them with template containers to show custom content. 
